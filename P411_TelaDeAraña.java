@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
-public class P411_TelaDeAraña {
+public class P411_TelaDeAraÃ±a {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		int x, y, suma, ele;
+		int x, y, ele;
+		long suma;
 		boolean cont = true;
 
 		while (true) {
